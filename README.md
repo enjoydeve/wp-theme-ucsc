@@ -1,3 +1,4 @@
+
 # Official WordPress theme for UC Santa Cruz
 
 A theme demo with official WordPress theme unit test data is here: <https://dev-ucsc-theme-demo.pantheonsite.io/>
